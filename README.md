@@ -1,2 +1,2 @@
-1)movie recommendation system - movie recommendation using nlp ,vader, tokenisation etc
-2)amazon review sentiment analysis 
+movie recomendation system and sentiment analysis model
+made use of tokenisation , vectorizartion(tf-idf) , cosine similarity , vader etc.
